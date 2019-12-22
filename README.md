@@ -10,4 +10,3 @@ shifted my attention to creating an easy to use, lightning fast, and forgiving s
 robust UI I focused on always returning the right articles and doing so very quickly.
 
 
-See the PDF for full report, it is included in the main directory
